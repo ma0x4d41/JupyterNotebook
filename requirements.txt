@@ -4,3 +4,4 @@ bqplot
 ipywidgets
 ipympl
 jupyter
+matplotlib
