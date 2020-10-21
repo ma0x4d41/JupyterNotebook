@@ -1,5 +1,5 @@
 # JupyterNotebook
-Jupyter notebooks reporsitory
+Jupyter notebooks repository
 
 **Voila:**  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma0x4d41/JupyterNotebook/master?urlpath=voila%2Ftree)
 
@@ -8,8 +8,8 @@ Jupyter notebooks reporsitory
 
 # Direct links
 **Voila:**   
-Open the MOS (bqplot) in voila: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma0x4d41/JupyterNotebook/master?urlpath=voila%2Frender%2Fscripts%2Fbasics.ipynb)  
-Open the MOS (matplotlib) in voila: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma0x4d41/JupyterNotebook/master?urlpath=voila%2Frender%2Fscripts%2Fvoila_and_matplotlib.ipynb)  
+Open the MOS (bqplot) in voila: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma0x4d41/JupyterNotebook/master?urlpath=voila%2Frender%2FMOS.ipynb)
+Open the MOS (matplotlib) in voila: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma0x4d41/JupyterNotebook/master?urlpath=voila%2Frender%2FMOS_Matplotlib.ipynb)
 
 
 **Notebook mode:**  
